@@ -18,6 +18,7 @@ Instead of long tutorials, we dive into **short, creative projects** that show y
 
 📸 Example:  
 ![Mini Project Demo](assets/Copilot_20250921_151001.png)  
+![ChessBoard.py](Projects/ChessBoard.py)
 
 ---
 
