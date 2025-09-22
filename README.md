@@ -1,6 +1,6 @@
 # 🐍 PyBits  
 
-Welcome to **PyBits** — a collection of mini Python projects featured on the [PyBits YouTube Channel](https://youtube.com/...) 🎥.  
+Welcome to **PyBits** — a collection of mini Python projects featured on the [PyBits YouTube Channel](https://www.youtube.com/@365_Days_With_Python) 🎥.  
 Learn Python through **fun, bite-sized, and practical projects** that make coding exciting and beginner-friendly! 🚀  
 
 ---
@@ -37,7 +37,7 @@ Each project is small enough to understand quickly, but useful enough to spark y
 
 ## 🎥 Follow Along
 Don’t miss new projects — check out the  
-👉 [PyBits YouTube Channel](https://youtube.com/...) for video walkthroughs, coding tips, and more!  
+👉 [PyBits YouTube Channel](https://www.youtube.com/@365_Days_With_Python) for video walkthroughs, coding tips, and more!  
 
 ![YouTube Subscribe](assets/Copilot_20250916_234410.png)  
 
