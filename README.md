@@ -17,7 +17,7 @@ PyBits is all about **learning by doing**.
 Instead of long tutorials, we dive into **short, creative projects** that show you how Python works in real-world scenarios.  
 
 📸 Example:  
-![Mini Project Demo](https://raw.githubusercontent.com/YourUsername/PyBits/main/assets/demo.gif)  
+![Mini Project Demo](assets/Copilot_20250921_151001.png)  
 
 ---
 
