@@ -7,7 +7,7 @@ Learn Python through **fun, bite-sized, and practical projects** that make codin
 
 ## 🌟 Preview  
 
-![PyBits Banner](https://raw.githubusercontent.com/YourUsername/PyBits/main/assets/banner.png)  
+![PyBits Banner](assets/ChatGPT%20Image%20Sep%2021,%202025,%2010_25_01%20AM.png)  
 
 ---
 
@@ -39,7 +39,7 @@ Each project is small enough to understand quickly, but useful enough to spark y
 Don’t miss new projects — check out the  
 👉 [PyBits YouTube Channel](https://youtube.com/...) for video walkthroughs, coding tips, and more!  
 
-![YouTube Subscribe](https://raw.githubusercontent.com/YourUsername/PyBits/main/assets/subscribe.gif)  
+![YouTube Subscribe](assets/Copilot_20250916_234410.png)  
 
 ---
 
